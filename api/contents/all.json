@@ -1,0 +1,29 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-09-24T21:15:14.284791Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-09-24T20:22:10.580069Z",
+      "mimetype": null,
+      "name": "simple_queue_tutorial.ipynb",
+      "path": "simple_queue_tutorial.ipynb",
+      "size": 6437,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2026-09-24T21:15:14.284791Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-09-24T21:15:14.284791Z",
+  "mimetype": null,
+  "name": "",
+  "path": "",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
