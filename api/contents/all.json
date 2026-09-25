@@ -2,7 +2,7 @@
   "content": [
     {
       "content": null,
-      "created": "2026-09-24T23:43:14.769046Z",
+      "created": "2026-09-25T09:36:07.871994Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
@@ -16,7 +16,7 @@
     },
     {
       "content": null,
-      "created": "2026-09-24T23:43:14.768427Z",
+      "created": "2026-09-25T09:36:07.870770Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
@@ -30,7 +30,7 @@
     },
     {
       "content": null,
-      "created": "2026-09-24T23:43:14.769649Z",
+      "created": "2026-09-25T09:36:07.873778Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
@@ -44,7 +44,21 @@
     },
     {
       "content": null,
-      "created": "2026-09-24T23:43:14.767703Z",
+      "created": "2026-09-25T09:36:07.872380Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-09-25T09:35:48.478678Z",
+      "mimetype": null,
+      "name": "numpy_vs_python_lists.ipynb",
+      "path": "numpy_vs_python_lists.ipynb",
+      "size": 18657,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-09-25T09:36:07.869588Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
@@ -58,7 +72,7 @@
     },
     {
       "content": null,
-      "created": "2026-09-24T23:43:14.769299Z",
+      "created": "2026-09-25T09:36:07.872637Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
@@ -72,7 +86,7 @@
     },
     {
       "content": null,
-      "created": "2026-09-24T23:43:14.768850Z",
+      "created": "2026-09-25T09:36:07.871569Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
@@ -86,7 +100,7 @@
     },
     {
       "content": null,
-      "created": "2026-09-24T23:43:14.768092Z",
+      "created": "2026-09-25T09:36:07.870344Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
@@ -100,7 +114,7 @@
     },
     {
       "content": null,
-      "created": "2026-09-24T23:43:14.770085Z",
+      "created": "2026-09-25T09:36:07.874186Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
@@ -114,7 +128,7 @@
     },
     {
       "content": null,
-      "created": "2026-09-24T23:43:14.769471Z",
+      "created": "2026-09-25T09:36:07.873399Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
@@ -128,7 +142,7 @@
     },
     {
       "content": null,
-      "created": "2026-09-24T23:43:14.768658Z",
+      "created": "2026-09-25T09:36:07.871186Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
@@ -141,11 +155,11 @@
       "writable": true
     }
   ],
-  "created": "2026-09-24T23:43:14.770085Z",
+  "created": "2026-09-25T09:36:07.874186Z",
   "format": "json",
   "hash": null,
   "hash_algorithm": null,
-  "last_modified": "2026-09-24T23:43:14.770085Z",
+  "last_modified": "2026-09-25T09:36:07.874186Z",
   "mimetype": null,
   "name": "",
   "path": "",
