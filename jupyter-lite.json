@@ -4,7 +4,6 @@
     "appUrl": "./lab",
     "appVersion": "0.8.4",
     "baseUrl": "./",
-    "contentsAllJsonFile": "all.json",
     "defaultKernelName": "python",
     "faviconUrl": "./lab/favicon.ico",
     "federated_extensions": [
